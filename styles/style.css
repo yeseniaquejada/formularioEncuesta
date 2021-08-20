@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap');
+#body{
+  background-color: #8CCCA3;
+}
+#imagen{
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: auto;
+  padding: 2%;
+}
+
+#title{
+  color: white;
+  font-size: 60px;
+  font-family: 'Amatic SC', cursive;
+}
+#description{
+  color: white;
+  font-size: 22px;
+  font-family: 'Amatic SC';
+}
+#survey-form{
+ font-family: 'Amatic SC', cursive;
+ font-size: 30px;
+}
+.tamanio{
+  text-align: left;
+  color: white;
+}
+
+.letrap{
+  font-family: 'Amatic SC', cursive;
+  font-size: 30px;
+  color: black;
+}
+#textarea{
+  min-height: 100px;
+  width: 100%;
+  padding: 1rem;
+  resize: vertical;
+}
